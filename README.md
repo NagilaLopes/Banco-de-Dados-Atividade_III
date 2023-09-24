@@ -17,7 +17,7 @@ Selecione todas as cidades cujo país seja brazil.
 
 <<h2>Resultado esperado</h2>
 
-![questão 2](https://github.com/NagilaLopes/Banco-de-Dados-Atividade_III/assets/111643449/dec246b4-d2d5-46d7-83a0-b0fe7f27a9fa)
+![questão 2](https://github.com/NagilaLopes/Banco-de-Dados-Atividade_III/assets/111643449/117e37eb-3609-4a9b-a6a6-7b83a4a01d47)
 
 
 <h2>3º Questão</h2>
@@ -27,7 +27,7 @@ Selecione todas as cidades cuja região(estado) é ceará.
 
 <h2>Resultado esperado</h2>
 
-![questão 3](https://github.com/NagilaLopes/Banco-de-Dados-Atividade_III/assets/111643449/5d137782-2e3a-49ca-98fa-5605a1d012d8)
+![questão 3](https://github.com/NagilaLopes/Banco-de-Dados-Atividade_III/assets/111643449/e3222a11-c497-4fe6-821b-c6a8042a336d)
 
 
 <h2>4º Questão</h2>
@@ -38,7 +38,7 @@ utilize também o group by;
 
 <h2>Resultado esperado</h2>
 
-![questão 4](https://github.com/NagilaLopes/Banco-de-Dados-Atividade_III/assets/111643449/8d0e146b-7ed7-44f1-bf0a-ad0d30435acf)
+![questão 4](https://github.com/NagilaLopes/Banco-de-Dados-Atividade_III/assets/111643449/d1d1a774-3192-4fa6-876d-be445b99f5c8)
 
 
 <h2>5º Questão</h2>
@@ -48,7 +48,7 @@ utilize também o group by;
 
 <h2>Resultado esperado</h2>
 
-![questão 5](https://github.com/NagilaLopes/Banco-de-Dados-Atividade_III/assets/111643449/6f949cf9-15af-45bd-9ae7-c8270469b260)
+![questão 5](https://github.com/NagilaLopes/Banco-de-Dados-Atividade_III/assets/111643449/74d4c724-b008-4cbf-87ed-677fdf0edec0)
 
 
 <h2>6º Questão</h2>
@@ -58,7 +58,7 @@ Quantos países diferentes existem na tabela 'tabela_paises'.
 
 <h2>Resultado esperado</h2>
 
-![questão 6](https://github.com/NagilaLopes/Banco-de-Dados-Atividade_III/assets/111643449/8f0c96a1-7500-4c5a-847f-3ebbd9b0e105)
+![questão 6](https://github.com/NagilaLopes/Banco-de-Dados-Atividade_III/assets/111643449/2c0d2390-19cb-4ae1-96f8-ae6526654355)
 
 
 <h2>7º Questão</h2>
@@ -68,7 +68,7 @@ Quantas cidades diferentes existem no brazil.
 
 <h2>Resultado esperado</h2>
 
-![questão 7](https://github.com/NagilaLopes/Banco-de-Dados-Atividade_III/assets/111643449/ab16092b-8a20-438e-986e-30aa3cbb2cd9)
+![questão 7](https://github.com/NagilaLopes/Banco-de-Dados-Atividade_III/assets/111643449/46e23f09-7981-43e9-a99a-d29ea730cb19)
 
 
 <h2>8º Questão</h2>
@@ -78,7 +78,7 @@ Quantas cidades diferentes existem no brazil.
  
 <h2>Resultado esperado</h2>
 
-![questão 8](https://github.com/NagilaLopes/Banco-de-Dados-Atividade_III/assets/111643449/5ea847cb-1ba8-4aaf-9cf6-17369cdc8872)
+![questão 8](https://github.com/NagilaLopes/Banco-de-Dados-Atividade_III/assets/111643449/560c48f3-b0df-4c09-ae24-0d6f25839257)
 
 
 <h2>9º Questão</h2>
@@ -88,7 +88,7 @@ Quantas pessoas com nome começando em 'João' existem no banco?
 
 <h2>Resultado esperado</h2>
 
-![questão 9](https://github.com/NagilaLopes/Banco-de-Dados-Atividade_III/assets/111643449/8c147286-2ab9-48c7-8caf-4560dd35c98f)
+![questão 9](https://github.com/NagilaLopes/Banco-de-Dados-Atividade_III/assets/111643449/8fe6649f-be17-49d0-b58d-216c37ed3521)
 
 
 <h2>10º Questão</h2>
@@ -98,7 +98,7 @@ Quantas pessoas têm o nome John?
 
 <h2>Resultado esperado</h2>
 
-![questão 9](https://github.com/NagilaLopes/Banco-de-Dados-Atividade_III/assets/111643449/0fb03c2f-f769-4e18-918a-d207d615be41)
+![questão 10](https://github.com/NagilaLopes/Banco-de-Dados-Atividade_III/assets/111643449/bd20b549-ec80-4acd-b4b5-69b2af595584)
 
 
 <h2>11 Questão</h2>
@@ -108,5 +108,5 @@ Ordene os nomes dos países sem repetição em ordem alfabética.
 
 <h2>Resultado esperado</h2>
 
+![questão 11](https://github.com/NagilaLopes/Banco-de-Dados-Atividade_III/assets/111643449/501cd686-bd07-4d28-872e-afb2fae31215)
 
-![questão 11](https://github.com/NagilaLopes/Banco-de-Dados-Atividade_III/assets/111643449/2f8733d8-df5a-4a38-bfe9-ae209079852e)
