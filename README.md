@@ -7,7 +7,7 @@ Selecione todos os dados dos países da tabela_paises.
 
 <h2>Resultado esperado</h2>
 
-![questão 1](https://github.com/NagilaLopes/Banco-de-Dados-Atividade_III/assets/111643449/eacc6d9a-8ae9-4e2e-a82b-1c79f10e2c7c)
+![questão 1](https://github.com/NagilaLopes/Banco-de-Dados-Atividade_III/assets/111643449/199477e3-8efb-4cd0-95c4-48fa8a65d128)
 
 
 <h2>2º Questão</h2>
