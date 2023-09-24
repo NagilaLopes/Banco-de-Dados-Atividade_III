@@ -17,7 +17,7 @@ Selecione todas as cidades cujo país seja brazil.
 
 <<h2>Resultado esperado</h2>
 
-![questão 2](https://github.com/NagilaLopes/Banco-de-Dados-Atividade_III/assets/111643449/dec246b4-d2d5-46d7-83a0-b0fe7f27a9fa)
+[questão 2](https://github.com/NagilaLopes/Banco-de-Dados-Atividade_III/assets/111643449/dec246b4-d2d5-46d7-83a0-b0fe7f27a9fa)
 
 
 <h2>3º Questão</h2>
