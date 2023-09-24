@@ -2,8 +2,8 @@
 
 <h2>1º Questão</h2>
 Selecione todos os dados dos países da tabela_paises.
- 
-    ```select * from tabela_paises;```
+
+   ```select * from tabela_paises;```
 
 <h2>Resultado esperado</h2>
 
