@@ -15,7 +15,7 @@ Selecione todas as cidades cujo país seja brazil.
 
 ```select cidade from tabela_paises where pais ='Brazil';```
 
-<<h2>Resultado esperado</h2>
+<h2>Resultado esperado</h2>
 
 ![questão 2](https://github.com/NagilaLopes/Banco-de-Dados-Atividade_III/assets/111643449/117e37eb-3609-4a9b-a6a6-7b83a4a01d47)
 
